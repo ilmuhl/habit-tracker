@@ -62,7 +62,6 @@ def save_user_data(username, user_data):
     all_data[username] = user_data
     save_all_data(all_data)
 
-
 # --- Haupt-UI für eingeloggte Nutzer ---
 def main_app(name, username):
     # st.success(f"Willkommen, {name}!")
