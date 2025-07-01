@@ -1,6 +1,6 @@
 streamlit
 streamlit-authenticator
-yaml
+pyyaml
 pandas
 matplotlib
 dayplot
