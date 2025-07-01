@@ -1,0 +1,6 @@
+streamlit
+streamlit-authenticator
+yaml
+pandas
+matplotlib
+dayplot
