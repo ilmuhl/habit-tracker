@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import dayplot as dp
 import matplotlib.pyplot as plt
 
-
 # Starte App im Terminal mit:
 # streamlit run habit_app.py
 
